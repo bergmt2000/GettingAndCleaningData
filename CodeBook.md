@@ -4,7 +4,7 @@
 
 ### Data Set and Description 
 
-Original Data Description http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+Original Data Description: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 Original Data Source: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
@@ -12,7 +12,7 @@ Original Data Source: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfil
 The data used in this archive were both the test and training sets.
 * X_train, X_test - were merged together
 * y_test ,y_train - were merged together
-* subject_tran, subject_test - were merged together
+* subject_train, subject_test - were merged together
 These datasets above were merged using rbind() and cbind.  This formed a 10299 by 69 tidied dataset after steps 1-4 were completed
 
 ### activity_labels.txt
