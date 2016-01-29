@@ -1,6 +1,6 @@
 # Coursera Getting and Cleaning Data Course Project
 
-## This project's purpose was to gather, manipulate, and summarize statistical data from an external source and generate a new tidy dataset for reuse.
+### This project's purpose was to gather, manipulate, and summarize statistical data from an external source and generate a new tidy dataset for reuse.
 The data in this project is obtained from the UC Irvine - Machine Learning Group
 
 ## Project description from Course:
@@ -13,7 +13,7 @@ Here are the data for the project:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 
-# Assignment deliverables
+## Assignment deliverables
 ###run_analysis.R script
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
